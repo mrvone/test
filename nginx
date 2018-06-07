@@ -1,0 +1,4 @@
+sudo nginx
+sudo /usr/local/Cellar/php71/7.1.15/sbin/php-fpm
+cd ~/Sites/betale/runtime/temp
+rm -rf ./*
