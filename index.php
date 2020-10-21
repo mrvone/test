@@ -4,3 +4,4 @@ class Index {
     echo "hello world";
   }
 }
+hello world
